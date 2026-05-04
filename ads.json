@@ -1,0 +1,16 @@
+{
+  "banner_ad": {
+    "enabled": true,
+    "click_url": "https://members.ogads.com/register?r=401055",
+    "portrait": {
+      "url": "https://res.cloudinary.com/dirl0v7nr/image/upload/q_auto/f_auto/v1777887050/320_50_zbp2rn.gif",
+      "width": 320,
+      "height": 50
+    },
+    "landscape": {
+      "url": "https://res.cloudinary.com/dirl0v7nr/image/upload/q_auto/f_auto/v1777886916/728_90_u3ogzm.gif",
+      "width": 728,
+      "height": 90
+    }
+  }
+}
