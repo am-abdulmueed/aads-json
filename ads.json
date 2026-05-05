@@ -4,9 +4,13 @@
     "title": "Special Offer!",
     "message": "Check out this amazing opportunity for you.",
     "button_text": "Click Here Now",
-    "image_url": "https://i.ibb.co/m3Y8jPp/320-50.gif",
+    "image_url": "https://i.ibb.co/kgt1Sj4Y/600x600.webp",
     "click_url": "https://members.ogads.com/register?r=401055",
     "show_after_seconds": 3,
-    "auto_close_seconds": 15
+    "auto_close_seconds": 15,
+    "start_date": "2026-05-01",
+    "end_date": "2026-12-31",
+    "max_daily_views": 3,
+    "interval_hours": 7
   }
 }
