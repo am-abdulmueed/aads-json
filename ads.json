@@ -1,6 +1,7 @@
 {
   "banner_ad": {
     "enabled": true,
+    "refresh_interval": 15,
     "click_url": "https://members.ogads.com/register?r=401055",
     "portrait": {
       "url": "https://i.ibb.co/m3Y8jPp/320-50.gif",
