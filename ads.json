@@ -1,17 +1,12 @@
 {
-  "banner_ad": {
+  "dialog_ad": {
     "enabled": true,
-    "refresh_interval": 15,
+    "title": "Special Offer!",
+    "message": "Check out this amazing opportunity for you.",
+    "button_text": "Click Here Now",
+    "image_url": "https://i.ibb.co/m3Y8jPp/320-50.gif",
     "click_url": "https://members.ogads.com/register?r=401055",
-    "portrait": {
-      "url": "https://i.ibb.co/m3Y8jPp/320-50.gif",
-      "width": 320,
-      "height": 50
-    },
-    "landscape": {
-      "url": "https://i.ibb.co/fz1sJt7Y/728-90.gif",
-      "width": 728,
-      "height": 90
-    }
+    "show_after_seconds": 3,
+    "auto_close_seconds": 15
   }
 }
