@@ -1,9 +1,9 @@
 {
   "dialog_ad": {
     "enabled": true,
-    "title": "OGADS!",
-    "message": "Earn MOney",
-    "button_text": "Signup",
+    "title": "Special Offer!",
+    "message": "Check out this amazing opportunity for you.",
+    "button_text": "Click Here Now",
     "image_url": "https://i.ibb.co/kgt1Sj4Y/600x600.webp",
     "click_url": "https://members.ogads.com/register?r=401055",
     "show_after_seconds": 3,
