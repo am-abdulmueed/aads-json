@@ -1,6 +1,7 @@
 {
   "dialog_ad": {
     "enabled": true,
+    "badge": "Sponsored",
     "title": "Special Offer!",
     "message": "Check out this amazing opportunity for you.",
     "button_text": "SignUp",
