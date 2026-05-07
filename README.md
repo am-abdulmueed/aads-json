@@ -142,11 +142,16 @@ If you want to manually change badge backgrounds, these drawables are available:
 
 ### Change Image Radius
 
-To round image corners, edit `app/src/main/res/drawable/rounded_image.xml`:
+Now we use **ShapeableImageView** (from Material Components) which rounds the image without cropping. To change the radius, edit the `RoundedImage` style in `app/src/main/res/values/styles.xml`:
 
 ```xml
-<corners android:radius="24dp" />  <!-- Change this value -->
+<style name="RoundedImage">
+    <item name="cornerFamily">rounded</item>
+    <item name="cornerSize">24dp</item>  <!-- Change this value -->
+</style>
 ```
+
+**Note:** The benefit of ShapeableImageView is that the image doesn't get cropped - only the corners are rounded! The full image remains visible.
 
 ### Change Button Style
 
@@ -168,6 +173,18 @@ The app already has a `WhiteButton` style defined. It’s already applied in the
 2. **Date Format**: Always use `YYYY-MM-DD` for `start_date` and `end_date`  
 3. **Time Calculation**: All time calculations are based on the local device time  
 4. **No Auto-Dismiss**: After countdown ends, the dialog won’t auto-dismiss. Only the close button will appear  
+
+## Markdown Example File
+
+For a complete example with markdown formatting, see: **[custom_ads_markdown_example.json](custom_ads_markdown_example.json)**
+
+This example shows:
+- Rich text formatting with headers
+- Bold and italic text
+- Lists and bullet points
+- Strikethrough pricing
+- Emoji integration
+- Professional markdown layout
 
 ---
 **Licensed under the MIT License © 2026 Abdul Mueed**
