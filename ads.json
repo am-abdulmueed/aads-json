@@ -3,7 +3,7 @@
     "enabled": true,
     "badge": "Hot Offer",
     "title": "🔥 Special Limited Time Offer!",
-    "message": "## 🎁 Exclusive Benefits\n\n### ✨ **What You Get:**\n- **Premium Access** to all features\n- **Ad-Free Experience** for 30 days\n- **Priority Support** 24/7\n- **Exclusive Content** not available elsewhere\n\n### ⏰ **Limited Time:**\nThis offer is only valid for **72 hours**!\n\n### 💰 **Special Pricing:**\n~~$19.99~~ **Only $4.99**\n\n*Don't miss out on this amazing deal!*",
+    "message": "# 🎁 Premium Features Showcase\n\n## 📝 Basic Markdown Elements\n\n### Bold & Italic\n- **Bold text** for emphasis\n- *Italic text* for style\n- ***Bold and italic*** together\n\n### Lists & Formatting\n\n#### Ordered List:\n1. First priority feature\n2. Second priority feature\n3. Third priority feature\n\n#### Unordered List:\n- Bullet point one\n- Bullet point two\n- Bullet point three\n\n### Code & Technical\n\n#### Inline Code:\nUse `console.log()` for debugging\n\n#### Code Block:\n```javascript\n{\n  \"name\": \"Premium User\",\n  \"features\": [\"markdown\", \"ads\", \"analytics\"],\n  \"active\": true\n}\n```\n\n### Links & Media\n\n#### Links:\nVisit [Markdown Guide](https://www.markdownguide.org) for more info\n\n#### Blockquote:\n> This is an important announcement\n> Multiple lines of quoted text\n\n### Horizontal Rule:\n---\n\n### Final Call to Action\n\n🚀 **Upgrade Now!**\n\nGet all these premium features:\n- **Complete markdown support**\n- **Rich formatting**\n- **Links & media**\n- **Code highlighting**\n\n**Limited time offer - Don't miss out!**",
     "button_text": "Get Premium Now",
     "images": [
       "https://i.ibb.co/kgt1Sj4Y/600x600.webp",
