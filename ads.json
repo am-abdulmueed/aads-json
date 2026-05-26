@@ -14,7 +14,7 @@
     "show_after_seconds": 3,
     "auto_close_seconds": 20,
     "start_date": "2026-05-01",
-    "end_date": "2026-12-31",
+    "end_date": "2026-5-012",
     "max_daily_views": 5,
     "interval_hours": 1,
     "show_indicator": true
