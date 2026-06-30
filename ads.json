@@ -1,22 +1,20 @@
 {
   "dialog_ad": {
     "enabled": true,
-    "badge": "Hot Offer",
-    "title": "🔥 CPAGrip Affiliate Program!",
-    "message": "## 🎁 Lifetime Earnings\n\n### ✨ **What You Get:**\n- **5% Commission** on all earnings that your friends generate for life\n- **Free Registration** to the top CPA network\n- **Real-Time Tracking** and advanced analytics dashboard\n- **High-Converting Offers** across global markets\n\n### ⏰ **Get Started:**\nJoin today and start building your passive income stream instantly!\n\n### 💰 **Special Pricing:**\n**100% Free to Join**\n\n*Don't miss out on this amazing opportunity!*",
-    "button_text": "Join CPAGrip Now",
+    "badge": "Exclusive",
+    "title": "❤️ Support PluginStream Development!",
+    "message": "## 🚀 Keep PluginStream Alive & Running!\n\nTo keep PluginStream **Active, Fast, and 100% Working**, we incur significant costs for maintaining back-end servers and continuous development.\n\nWe are not asking you for any money—all we need is a little bit of your support! A small action from your side can make a massive difference for us.\n\n### ✨ **How You Can Help:**\n- By watching just **one short ad**, you directly contribute toward covering our ongoing server costs.\n- This ensures all app plugins and features remain completely free and up-to-date for everyone.\n\n### ⏰ **Just a Few Seconds:**\nYour emotional and practical support means everything to us as we strive to maintain premium links and a secure infrastructure.\n\n### 💰 **Cost:**\n**100% Free (Only Watch 1 Short Ad)**\n\n*Show your love and support our small team by clicking below!*",
+    "button_text": "Watch & Support Now",
     "images": [
-      "https://i.ibb.co/qMDh8gsq/cpagrip-125x125.gif",
-      "https://i.ibb.co/HLJdShWF/cpagrip.png",
-      "https://i.ibb.co/HLJdShWF/cpagrip.png"
+      "https://i.ibb.co/C3NPRF1C/ads.png"
     ],
-    "click_url": "https://www.cpagrip.com/signup.php?ref=2413394",
+    "click_url": "https://arisefeistyleery.com/q9fcq65yfr?key=08d2509c203cbea44e79039ef1bab143",
     "show_after_seconds": 3,
     "auto_close_seconds": 20,
-    "start_date": "2026-06-21",
-    "end_date": "2026-07-21",
-    "max_daily_views": 5,
-    "interval_hours": 1,
-    "show_indicator": true
+    "start_date": "2026-06-30",
+    "end_date": "2026-12-31",
+    "max_daily_views": 3,
+    "interval_hours": 4,
+    "show_indicator": false
   }
 }
